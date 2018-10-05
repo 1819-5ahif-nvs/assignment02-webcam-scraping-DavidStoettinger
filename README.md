@@ -24,7 +24,7 @@ Weiters überprüfen Sie, ob sich der Link zum letzten Mal geändert hat, denn d
 
 Der Client soll auf einem RaspberryPi funktionieren, dh das Programm muss außerhalb der IDE funktionieren. Sie müssen also mit Maven ein jar-File generieren, daß alle Abhängigkeiten (zB JSoup) beinhaltet.
 
-Verwenden Sie hierzu zB 
+Verwenden Sie hierzu zB Appache Shade
 
 ### Dokumentation
 
