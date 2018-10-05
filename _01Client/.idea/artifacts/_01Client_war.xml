@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_01Client:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="vehicle-jpa.war">
+      <element id="artifact" artifact-name="_01Client:war exploded" />
+    </root>
+  </artifact>
+</component>
